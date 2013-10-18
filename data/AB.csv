@@ -1,0 +1,227 @@
+trecho,subsegmento,cidade,km_ini,km_final,pista,nivel
+1,1,Juatuba,57.55,58.30,Duplicada,A
+1,2,Juatuba,58.30,59.57,Duplicada,A
+1,3,Juatuba,59.57,60.59,Duplicada,A
+1,4,Juatuba,60.59,61.37,Duplicada,A
+1,5,Mateus Leme,61.37,63.79,Duplicada,A
+1,6,Mateus Leme,63.79,66.79,Duplicada,A
+1,7,Mateus Leme,66.79,67.52,Simples,E
+1,8,Mateus Leme,67.52,68.30,Simples,E
+1,9,Mateus Leme,68.30,69.41,Simples,E
+2,10,Mateus Leme,69.41,70.16,Simples,D
+2,11,Mateus Leme,70.16,70.76,Simples,C
+2,12,Mateus Leme,70.76,71.87,Simples,D
+2,13,Mateus Leme,71.87,72.66,Simples,D
+2,14,Mateus Leme,72.66,73.23,Simples,C
+2,15,Mateus Leme,73.23,73.68,Simples,D
+2,16,Mateus Leme,73.68,75.76,Simples,D
+2,17,Mateus Leme,75.76,76.27,Simples,C
+2,18,Itaúna,76.27,76.90,Simples,D
+2,19,Itaúna,76.90,79.11,Simples,D
+2,20,Itaúna,79.11,80.02,Simples,D
+3,21,Itaúna,80.02,81.21,Simples,D
+3,22,Itaúna,81.21,82.93,Simples,D
+3,23,Itaúna,82.93,83.44,Simples,C
+3,24,Itaúna,83.44,84.14,Simples,D
+3,25,Itaúna,84.14,84.34,Simples,D
+3,26,Itaúna,84.34,85.09,Simples,D
+3,27,Itaúna,85.09,85.83,Simples,B
+3,28,Itaúna,85.83,86.51,Simples,D
+4,29,Itaúna,86.51,88.05,Simples,D
+4,30,Itaúna,88.05,89.22,Simples,E
+4,31,Itaúna,89.22,92.22,Simples,D
+5,32,Itaúna,92.22,94.94,Simples,D
+5,33,Itaúna,94.94,95.85,Simples,D
+5,34,Itaúna,95.85,96.59,Simples,D
+5,35,Itaúna,96.59,98.76,Simples,D
+5,36,Itaúna,98.76,99.52,Simples,D
+5,37,Itaúna,99.52,101.21,Simples,D
+5,38,Itaúna,101.21,102.16,Simples,D
+5,39,Itaúna,102.16,102.78,Simples,C
+5,40,Itaúna,102.78,103.31,Simples,D
+5,41,Igaratinga,103.31,106.23,Simples,D
+5,42,Carmo do Cajuru,106.23,109.75,Simples,D
+5,43,Carmo do Cajuru,109.75,110.58,Simples,D
+5,44,Carmo do Cajuru,110.58,111.47,Simples,D
+5,45,Carmo do Cajuru,111.47,112.23,Simples,D
+5,46,Carmo do Cajuru,112.23,113.28,Simples,D
+5,47,Carmo do Cajuru,113.28,114.60,Simples,D
+5,48,Carmo do Cajuru,114.60,118.32,Simples,D
+5,49,Divinópolis,118.32,120.13,Simples,D
+5,50,Divinópolis,120.13,122.54,Simples,C
+5,51,Divinópolis,122.54,123.05,Duplicada,A
+5,52,Divinópolis,123.05,124.44,Simples,D
+5,53,Divinópolis,124.44,126.04,Simples,D
+6,54,Divinópolis,126.04,127.23,Simples,D
+6,55,Divinópolis,127.23,128.80,Duplicada,A
+6,56,Divinópolis,128.80,129.73,Simples,D
+6,57,Divinópolis,129.73,130.50,Simples,D
+6,58,Divinópolis,130.50,130.86,Duplicada,A
+6,59,Divinópolis,130.86,131.39,Simples,D
+6,60,Divinópolis,131.39,132.01,Simples,D
+7,61,Divinópolis,132.01,133.29,Simples,C
+7,62,Divinópolis,133.29,134.13,Simples,C
+7,63,Divinópolis,134.13,135.42,Simples,D
+7,64,Divinópolis,135.42,137.07,Simples,C
+7,65,Divinópolis,137.07,138.00,Simples,D
+7,66,Divinópolis,138.00,139.02,Simples,D
+7,67,Divinópolis,139.02,139.90,Simples,D
+7,68,Divinópolis,139.90,140.52,Simples,E
+7,69,São Sebastião do Oeste,140.52,142.88,Simples,D
+7,70,São Sebastião do Oeste,142.88,143.73,Simples,C
+8,71,São Sebastião do Oeste,143.73,144.44,Simples,C
+8,72,São Sebastião do Oeste,144.44,145.91,Simples,D
+8,73,São Sebastião do Oeste,145.91,147.12,Simples,D
+8,74,São Sebastião do Oeste,147.12,148.44,Simples,C
+8,75,São Sebastião do Oeste,148.44,149.94,Simples,C
+8,76,São Sebastião do Oeste,149.94,150.85,Simples,D
+8,77,São Sebastião do Oeste,150.85,153.42,Simples,C
+8,78,São Sebastião do Oeste,153.42,156.44,Simples,C
+8,79,Pedra do Indaiá,156.44,157.70,Simples,D
+8,80,Pedra do Indaiá,157.70,158.49,Simples,D
+8,81,Pedra do Indaiá,158.49,160.15,Simples,D
+8,82,Pedra do Indaiá,160.15,161.62,Simples,C
+8,83,Pedra do Indaiá,161.62,162.66,Simples,D
+8,84,Pedra do Indaiá,162.66,163.75,Simples,C
+8,85,Pedra do Indaiá,163.75,164.40,Simples,D
+8,86,Pedra do Indaiá,164.40,164.83,Simples,C
+9,87,Pedra do Indaiá,164.83,167.12,Simples,D
+9,88,Pedra do Indaiá,167.12,169.11,Simples,D
+9,89,Pedra do Indaiá,169.11,171.29,Simples,D
+9,90,Pedra do Indaiá,171.29,172.01,Simples,D
+9,91,Pedra do Indaiá,172.01,173.03,Simples,C
+9,92,Pedra do Indaiá,173.03,175.09,Simples,E
+9,93,Pedra do Indaiá,175.09,178.26,Simples,C
+9,94,Pedra do Indaiá,178.26,179.48,Simples,D
+9,95,Pedra do Indaiá,179.48,180.60,Simples,D
+9,96,Pedra do Indaiá,180.60,181.86,Simples,D
+9,97,Pedra do Indaiá,181.86,182.69,Simples,D
+9,98,Pedra do Indaiá,182.69,183.44,Simples,D
+9,99,Formiga,183.44,185.36,Simples,D
+9,100,Formiga,185.36,186.31,Simples,D
+9,101,Formiga,186.31,190.99,Simples,D
+9,102,Formiga,190.99,191.97,Simples,E
+9,103,Formiga,191.97,196.38,Simples,D
+9,104,Formiga,196.38,197.16,Simples,D
+9,105,Formiga,197.16,198.25,Simples,D
+9,106,Formiga,198.25,200.44,Simples,D
+9,107,Formiga,200.44,201.87,Duplicada,A
+9,108,Formiga,201.87,202.30,Simples,E
+9,109,Formiga,202.30,203.53,Simples,D
+9,110,Formiga,203.53,203.99,Simples,E
+9,111,Formiga,203.99,204.96,Simples,D
+9,112,Formiga,204.96,206.39,Simples,D
+9,113,Córrego Fundo,206.39,207.65,Simples,D
+9,114,Córrego Fundo,207.65,209.05,Simples,F
+9,115,Córrego Fundo,209.05,212.82,Simples,D
+10,116,Córrego Fundo,212.82,215.52,Simples,D
+10,117,Córrego Fundo,215.52,216.95,Simples,C
+10,118,Formiga,216.95,219.87,Simples,D
+10,119,Formiga,219.87,222.06,Simples,C
+10,120,Formiga,222.06,223.65,Simples,D
+10,121,Formiga,223.65,224.58,Simples,C
+10,122,Formiga,224.58,226.35,Simples,C
+10,123,Formiga,226.35,227.29,Simples,C
+10,124,Formiga,227.29,229.12,Simples,C
+10,125,Formiga,229.12,229.95,Simples,C
+10,126,Formiga,229.95,231.00,Simples,D
+10,127,Formiga,231.00,231.74,Simples,C
+10,128,Pains,231.74,234.03,Simples,C
+10,129,Pimenta,234.03,234.61,Simples,C
+10,130,Pimenta,234.61,238.15,Simples,C
+10,131,Pimenta,238.15,240.23,Simples,C
+10,132,Pimenta,240.23,243.07,Simples,C
+10,133,Pimenta,243.07,244.44,Simples,D
+10,134,Pimenta,244.44,246.64,Simples,C
+10,135,Pimenta,246.64,247.87,Simples,C
+10,136,Pimenta,247.87,249.11,Simples,C
+10,137,Pimenta,249.11,251.74,Simples,D
+10,138,Piumhí,251.74,254.59,Simples,D
+10,139,Piumhí,254.59,255.84,Simples,D
+10,140,Piumhí,255.84,260.85,Simples,D
+10,141,Piumhí,260.85,261.63,Simples,D
+11,142,Piumhí,261.63,263.73,Simples,D
+11,143,Piumhí,263.73,264.60,Simples,D
+11,144,Piumhí,264.60,266.16,Simples,C
+11,145,Piumhí,266.16,267.60,Simples,D
+11,146,Piumhí,267.60,269.13,Simples,D
+11,147,Piumhí,269.13,270.55,Simples,D
+11,148,Piumhí,270.55,272.56,Simples,D
+11,149,Piumhí,272.56,273.16,Simples,D
+11,150,Piumhí,273.16,277.06,Simples,D
+11,151,Piumhí,277.06,277.70,Simples,D
+11,152,Piumhí,277.70,278.89,Simples,C
+11,153,Piumhí,278.89,280.65,Simples,D
+11,154,Piumhí,280.65,281.37,Simples,C
+11,155,Piumhí,281.37,284.72,Simples,D
+12,156,Capitólio,284.72,286.72,Simples,C
+12,157,Capitólio,286.72,289.22,Simples,D
+12,158,Capitólio,289.22,293.54,Simples,D
+12,159,Capitólio,293.54,297.19,Simples,E
+12,160,Capitólio,297.19,299.66,Simples,C
+12,161,Capitólio,299.66,301.27,Simples,B
+12,162,Capitólio,301.27,306.49,Simples,C
+12,163,Capitólio,306.49,308.80,Simples,C
+12,164,Capitólio,308.80,309.41,Simples,D
+12,165,Capitólio,309.41,309.96,Simples,D
+12,166,Capitólio,309.96,310.59,Simples,C
+12,167,Capitólio,310.59,312.24,Simples,C
+12,168,Capitólio,312.24,313.81,Simples,D
+12,169,Capitólio,313.81,315.42,Simples,C
+12,170,São João Batista do Glória,315.42,317.06,Simples,C
+12,171,São João Batista do Glória,317.06,321.02,Simples,C
+12,172,São João Batista do Glória,321.02,321.65,Simples,D
+12,173,São João Batista do Glória,321.65,323.04,Simples,C
+12,174,São João Batista do Glória,323.04,323.91,Simples,C
+12,175,Alpinópolis,323.91,330.23,Simples,C
+12,176,Alpinópolis,330.23,331.01,Simples,C
+13,177,Passos,331.01,332.59,Simples,D
+13,178,Passos,332.59,335.34,Simples,D
+13,179,Passos,335.34,336.12,Simples,D
+13,180,Passos,336.12,339.01,Simples,C
+13,181,Passos,339.01,339.68,Simples,D
+13,182,Passos,339.68,341.00,Simples,D
+13,183,Passos,341.00,341.94,Simples,D
+13,184,Passos,341.94,344.35,Simples,D
+13,185,Passos,344.35,350.53,Simples,D
+13,186,Passos,350.53,351.82,Simples,D
+13,187,Passos,351.82,352.35,Simples,C
+13,188,Passos,352.35,354.63,Duplicada,A
+14,189,Passos,354.63,355.30,Duplicada,A
+14,190,Passos,355.30,356.09,Simples,D
+14,191,Passos,356.09,357.19,Simples,D
+14,192,Passos,357.19,358.25,Simples,E
+14,193,Passos,358.25,359.31,Simples,D
+15,194,Passos,359.31,360.21,Simples,E
+15,195,Passos,360.21,364.09,Simples,D
+15,196,Passos,364.09,364.57,Simples,D
+15,197,Passos,364.57,369.11,Simples,C
+16,198,Itaú de Minas,369.11,369.89,Simples,C
+16,199,Itaú de Minas,369.89,371.01,Simples,E
+16,200,Itaú de Minas,371.01,372.11,Simples,D
+17,201,Itaú de Minas,372.11,376.53,Simples,D
+17,202,Itaú de Minas,376.53,378.35,Simples,E
+17,203,Pratápolis,378.35,381.03,Simples,D
+17,204,Fortaleza de Minas,381.03,382.27,Simples,E
+17,205,Fortaleza de Minas,382.27,383.46,Simples,D
+17,206,Pratápolis,383.46,386.11,Simples,D
+17,207,Pratápolis,386.11,387.29,Simples,B
+17,208,Pratápolis,387.29,387.73,Simples,C
+18,209,Pratápolis,387.73,388.18,Simples,C
+18,210,Pratápolis,388.18,389.03,Simples,D
+18,211,Pratápolis,389.03,389.96,Simples,D
+18,212,Pratápolis,389.96,393.21,Simples,D
+18,213,São Sebastião do Paraíso,393.21,395.81,Simples,D
+18,214,São Sebastião do Paraíso,395.81,397.58,Simples,D
+18,215,São Sebastião do Paraíso,397.58,400.91,Simples,D
+18,216,São Sebastião do Paraíso,400.91,402.00,Simples,D
+19,217,São Sebastião do Paraíso,0.00,1.43,Simples,D
+19,218,São Sebastião do Paraíso,1.43,2.15,Simples,D
+19,219,São Sebastião do Paraíso,2.15,4.70,Duplicada,A
+19,220,São Sebastião do Paraíso,637.20,638.79,Simples,C
+20,221,São Sebastião do Paraíso,638.79,643.46,Simples,D
+20,222,São Sebastião do Paraíso,643.46,645.76,Simples,C
+20,223,São Sebastião do Paraíso,645.76,647.33,Simples,C
+20,224,São Sebastião do Paraíso,647.33,649.33,Simples,C
+20,225,São Sebastião do Paraíso,649.33,655.74,Simples,C
+20,226,São Sebastião do Paraíso,655.74,659.49,Simples,E
