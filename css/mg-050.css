@@ -1,3 +1,10 @@
+body {
+padding: 30px;
+}
+
+.navbar {
+margin-bottom: 30px;
+}
 
 .axis text{
   font: 10px sans-serif;
@@ -10,15 +17,36 @@
   shape-rendering: crispEdges;
 }
 
-div.tooltip {   
-  position: absolute;           
-  text-align: center;           
-  width: 150px;                  
-  height: 80px;                 
-  padding: 2px;             
-  font: 16px sans-serif;        
-  background: lightsteelblue;   
-  border: 0px;      
-  border-radius: 8px;           
-  pointer-events: none;         
+
+.ttip {
+  background-color: rgb(255, 255, 255);
+  border-radius: 3px;
+  padding: 2px 6px;
+  color: rgb(20, 20, 20);
 }
+.ttip h3 {
+  text-align: center;
+  padding-top: 0px;
+  margin-top: 5px;
+}
+
+.border-a {
+  border: 2px solid rgb(26,152,80);
+}
+.border-b {
+  border: 2px solid rgb(145,207,96);
+}
+.border-c {
+  border: 2px solid rgb(217,239,139);
+}
+.border-d {
+  border: 2px solid rgb(254,224,139);
+}
+.border-e {
+  border: 2px solid rgb(252,141,89);
+}
+.border-f {
+  border: 2px solid rgb(215,48,39);
+}
+
+
